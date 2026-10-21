@@ -1,0 +1,10 @@
+*.o
+*.exe
+*.out
+*.class
+__pycache__/
+*.pyc
+.vscode/
+.env
+.venv/
+*.log
